@@ -1,5 +1,7 @@
 👋 Hi, I’m @vignes-12. My professional name is Obblivignes KanchanadeviVenkataraman (you can call me Vignes in short).
-👀 I’m interested in creating advanced and efficient machine learning systems (LLMs, Transformers) and its specific applications across industries.
+
+👀 I’m interested in creating advanced and efficient machine learning systems (LLMs, Transformers) and their specific applications across industries.
+
 🌱 I’m currently taking a Master's in Computer Science at NC State University and researching in collaboration with Dr. Dongkuan Xu of the Computer Science department and Dr. Yang Zhang of the Textiles department on applying ML models for super-resolution and image denoising of single-molecule microscopy images.
 
 📫 How to reach me:
